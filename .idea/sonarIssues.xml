@@ -3,6 +3,16 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$PROJECT_DIR$/../egp-padm/src/app/shared/components/sidebar-menu/sidebar-menu.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../egp-padm/src/app/shared/constant/sidebar-menu.constant.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/components/PrimeiroComponent.jsx">
           <value>
             <set />
