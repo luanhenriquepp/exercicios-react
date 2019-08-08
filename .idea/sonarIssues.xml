@@ -3,12 +3,147 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$PROJECT_DIR$/../e-social-trf1/e-social/src/app/core/keycloak-acl/acl-keycloak.service.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-social-trf1/e-social/src/app/core/keycloak-acl/acl-module.service.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-social-trf1/e-social/src/app/core/service/notification.service.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-social-trf1/e-social/src/app/modules/ambiente-trabalho/component/detalhe/detalhe.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-social-trf1/e-social/src/app/modules/ambiente-trabalho/component/manter/manter.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-social-trf1/e-social/src/app/modules/processos/component/lista/processos-lista.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-social-trf1/e-social/src/app/modules/processos/component/lista/processos-lista.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e-social-trf1/e-social/src/environments/environment.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../egp-padm/src/app/app.constants.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../egp-padm/src/app/core/service/notification.service.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../egp-padm/src/app/modules/dashboard/components/dashboard.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../egp-padm/src/app/modules/dashboard/components/dashboard.component.scss">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../egp-padm/src/app/modules/dashboard/components/dashboard.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../egp-padm/src/app/modules/dashboard/dashboard.module.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../egp-padm/src/app/modules/processos-admin/components/cadastrar/cadastrar.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../egp-padm/src/app/modules/processos-admin/components/lista/lista.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../egp-padm/src/app/modules/processos-admin/components/lista/lista.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../egp-padm/src/app/modules/processos-admin/processos-admin.module.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../egp-padm/src/app/modules/processos-admin/resolver/processos-admin.resolver.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../egp-padm/src/app/modules/processos-admin/services/processos-admin.service.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../egp-padm/src/app/shared/abstract/list.abstract.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../egp-padm/src/app/shared/components/sidebar-menu/sidebar-menu.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../egp-padm/src/app/shared/components/sidebar-menu/sidebar-menu.component.ts">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../egp-padm/src/app/shared/constant/sidebar-menu.constant.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../egp-padm/src/environments/environment.enge-dev.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../egp-padm/src/environments/environment.prod.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../egp-padm/src/environments/environment.trf-dev.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../egp-padm/src/environments/environment.trf-hmg.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../egp-padm/src/environments/environment.ts">
           <value>
             <set />
           </value>
